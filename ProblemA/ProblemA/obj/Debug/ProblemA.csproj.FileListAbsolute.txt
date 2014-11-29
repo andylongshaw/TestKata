@@ -1,0 +1,7 @@
+C:\repos\testkata\ProblemA\ProblemA\obj\Debug\ProblemA.csprojResolveAssemblyReference.cache
+C:\repos\testkata\ProblemA\ProblemA\bin\Debug\ProblemA.dll
+C:\repos\testkata\ProblemA\ProblemA\bin\Debug\ProblemA.pdb
+C:\repos\testkata\ProblemA\ProblemA\bin\Debug\xunit.dll
+C:\repos\testkata\ProblemA\ProblemA\bin\Debug\xunit.xml
+C:\repos\testkata\ProblemA\ProblemA\obj\Debug\ProblemA.dll
+C:\repos\testkata\ProblemA\ProblemA\obj\Debug\ProblemA.pdb
